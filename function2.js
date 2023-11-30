@@ -34,5 +34,4 @@ var swiper = new Swiper(".swiper", {
         slidesPerView: 3
       }
     }
-  });
-  
+  });  
